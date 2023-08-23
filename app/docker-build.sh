@@ -1,0 +1,1 @@
+docker build -t fastapi-docker-gh-actions-demo --build-arg ENV=PROD .
